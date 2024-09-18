@@ -6,7 +6,7 @@ It will be a pig.
 
 2. What are two variables you could use so that when you change each variable, the drawing changes?
 
-Pen size. coordinates (x,y). 
+Pen size. The variable, x, is an offset to move a body part that is symmetrical to another so it is repositioned. 
 
 3. Where is there repetition in your drawing?
 
