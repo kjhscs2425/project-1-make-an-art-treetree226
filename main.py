@@ -155,26 +155,15 @@ for i in range (1):
 turtle.left(43)
 turtle.forward(80)
 
-b=13
+b=17 #I changed it to 17 because I wanted to. --Athena
 #b represents the  variable that moves the circles slightly to the left to draw the pig's tail or spiral. b takes the value of only 13.
+
 turtle.pendown()
 turtle.right(90)
-turtle.circle(8)
-turtle.backward(b)
-turtle.circle(8)
-turtle.backward(b)
-flatoval(10)
- 
-   
-
-
-
-
-
-
-
-
-
+for i in range(1,3):
+    turtle.circle(10/i)
+    turtle.backward(b)
+flatoval(5)
 
 
 turtle.exitonclick()
