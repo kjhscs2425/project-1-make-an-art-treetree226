@@ -156,7 +156,7 @@ turtle.left(43)
 turtle.forward(80)
 
 b=17 #I changed it to 17 because I wanted to. --Athena
-#b represents the  variable that moves the circles slightly to the left to draw the pig's tail or spiral. b takes the value of only 13.
+#b represents the  variable that moves the circles slightly to the left to draw the pig's tail or spiral. b takes the value of only 13 and 17.
 
 turtle.pendown()
 turtle.right(90)
